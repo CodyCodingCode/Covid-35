@@ -13,7 +13,7 @@ parent: Countries and Organizations
 
 ### Income Classification: Middle Income Country
 
-### Government Type: Illiberal authoritarian regime
+### Government Type: Illiberal Authoritarian Regime
 
 ![Mepria Flag](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Mepria_flag.png?raw=true)
 
