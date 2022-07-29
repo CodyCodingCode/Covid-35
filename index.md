@@ -12,7 +12,7 @@ Welcome to Covid-35
 Covid-35 is an educational game designed to help decision makers tackle Covid.
 {: .fs-6 .fw-300 }
 
-[View the Website](covid-35.web.app){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View the Website](https://covid-35.web.app/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
