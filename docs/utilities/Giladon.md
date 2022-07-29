@@ -12,7 +12,7 @@ parent: Countries and Organizations
 
 ### Income Classification: Low Income Country
 
-### Government Type: Illiberal Decomcracy
+### Government Type: Illiberal Democracy
 
 ![Giladon Flag](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Giladon_flag.png?raw=true)
 
