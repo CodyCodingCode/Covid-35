@@ -14,7 +14,7 @@ parent: Countries and Organizations
 
 ### Government Type: Liberal Decomcracy
 
-![Swacor Flag](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Pansong_flag.png?raw=true)
+![Pansong Flag](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Pansong_flag.png?raw=true)
 
 Pansong is a country of 40 million people who are relatively homogenous ethnically, but which suffers from divisions between the majority and minority religion and class discrimination. There are frequent protests and demonstrations and have been isolated incidents of religiously motivated violence. Women’s rights, though enshrined in law, are routinely violated with high rates of gender-based violence and the routine exploitation of women’s labour. While traditionally more communally based, the culture has become increasingly individualistic due to the increase in foreign media and globalized economy.
 
