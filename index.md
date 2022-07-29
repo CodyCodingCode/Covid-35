@@ -18,3 +18,4 @@ Covid-35 is an educational game designed to help decision makers tackle Covid.
 
 ## Getting started
 
+### [Create an account](https://codycodingcode.github.io/Covid-35/docs/Login/#login)
