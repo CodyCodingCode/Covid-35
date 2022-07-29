@@ -12,7 +12,7 @@ parent: Countries and Organizations
 
 ### Income Classification: Low Income Country
 
-### Government Type: Liberal decomcracy
+### Government Type: Liberal Democracy
 
 ![Edresh Flag](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Edresh_flag.png?raw=true)
 
