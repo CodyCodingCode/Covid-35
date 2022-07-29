@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Theurus
-parent: Countries and Organizations
+parent: Countries
 ---
 
 # Color Utilities
