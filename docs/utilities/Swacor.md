@@ -12,7 +12,7 @@ parent: Countries and Organizations
 
 ### Income Classification: High Income Country
 
-### Government Type: Presidential Decomcracy
+### Government Type: Presidential Democracy
 
 ![Swacor Flag](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Swacor_flag.png?raw=true)
 
