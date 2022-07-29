@@ -4,124 +4,27 @@ title: Mepria
 parent: Countries and Organizations
 ---
 
-# Layout Utilities
-{: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
+# Mepria
 
-1. TOC
-{:toc}
+### Population: 80 Million
 
----
+### Base ICU Capacity: 2600
 
-## Spacing
+### Income Classification: Middle Income Country
 
-These spacers are available to use for margins and padding with responsive utility classes. Combine these prefixes with a screen size and spacing scale to use them responsively.
+### Government Type: Illiberal authoritarian regime
 
-| Classname prefix | What it does                  |
-|:-----------------|:------------------------------|
-| `.m-`            | `margin`                      |
-| `.mx-`           | `margin-left`, `margin-right` |
-| `.my-`           | `margin top`, `margin bottom` |
-| `.mt-`           | `margin-top`                  |
-| `.mr-`           | `margin-right`                |
-| `.mb-`           | `margin-bottom`               |
-| `.ml-`           | `margin-left`                 |
+![Mepria Flag](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Mepria_flag.png?raw=true)
 
-| Classname prefix | What it does                    |
-|:-----------------|:--------------------------------|
-| `.p-`            | `padding`                       |
-| `.px-`           | `padding-left`, `padding-right` |
-| `.py-`           | `padding top`, `padding bottom` |
-| `.pt-`           | `padding-top`                   |
-| `.pr-`           | `padding-right`                 |
-| `.pb-`           | `padding-bottom`                |
-| `.pl-`           | `padding-left`                  |
+Mepria, a country of 80 million people, is marked by numerous cultural and regional divisions. It is perhaps because of these divisions that Mepria also maintains a strong national identity, fostered through state-controlled education and media. The culture is one of strong family and collective ties, and of prioritizing cultural traditions more than religious beliefs. Traditional roles between men and women are generally maintained, though urbanization and industrialization has seen more women entering the workforce. Most families live in intergenerational homes with one or two school-aged children.
 
-Spacing values are based on a `1rem = 16px` spacing scale, broken down into these units:
+In principle, Mepria is a multi-party democracy. In practice, Mepria is a centralized state, dominated by self-perpetuating elites, most of whom are men from a small number of wealthy families. While there are elections every five years, these do not tend to lead to major change. The ruling Democracy Party has been in power for 48 years. Political dissent is not tolerated, and opposition leaders are frequently imprisoned. The state maintains tight control over the media. Notions of universal human rights are rejected, with the focus being on collective rights and the need to maintain stability amid cultural and regional divisions.
 
-| Spacer/suffix  | Size in rems  | Rem converted to px |
-|:---------------|:--------------|:--------------------|
-| `1`            | 0.25rem       | 4px                 |
-| `2`            | 0.5rem        | 8px                 |
-| `3`            | 0.75rem       | 12px                |
-| `4`            | 1rem          | 16px                |
-| `5`            | 1.5rem        | 24px                |
-| `6`            | 2rem          | 32px                |
-| `7`            | 2.5rem        | 40px                |
-| `8`            | 3rem          | 48px                |
-| `auto`         | auto          | auto                |
+The health system is strong, with excellent training and technology programs, and high standards of healthcare. Highly centralized, health leadership is sensitive to any criticism of its capabilities and is often reluctant to share information and data, particularly globally. There is an established public health system underpinned by active community participation.
 
-Use `mx-auto` to horizontally center elements.
+Mepria trades with all neighbouring countries, though a long-standing conflict with Pansong restricts travel and trade across that land border. It imports raw materials (from Giladon, Edresh and Theurus) for its manufactured exports to all countries, but particularly Theurus and Swacor. While enjoying highly globalized trade, the state of Mepria is also very territorial and maintains a strong border presence and control over the movements of people and goods. Previously having enforced a very restricted entry visa regime, Mepria has increased its provision of tourist visas over the past two decades, resulting in a relatively recent growth in its tourism sector and a commensurate increase in international visitors, particularly from Swacor and Theurus, each year.
 
-#### Examples
-{: .no_toc }
+As a middle-income country, most of Mepria’s urban citizens are middle or working class, but many of those living in rural areas depend on subsistence agriculture. The country is almost self-sufficient in terms of agriculture but is highly dependent on its manufacturing exports for foreign exchange and to keep its growing population employed.
 
-In Markdown, use the `{: }` wrapper to apply custom classes:
-
-```markdown
-This paragraph will have a margin bottom of 1rem/16px at large screens.
-{: .mb-lg-4 }
-
-This paragraph will have 2rem/32px of padding on the right and left at all screen sizes.
-{: .px-6 }
-```
-
-## Horizontal Alignment
-
-| Classname               | What it does                     |
-|:------------------------|:---------------------------------|
-| `.float-left`           | `float: left`                    |
-| `.float-right`          | `float: right`                   |
-| `.flex-justify-start`   | `justify-content: flex-start`    |
-| `.flex-justify-end`     | `justify-content: flex-end`      |
-| `.flex-justify-between` | `justify-content: space-between` |
-| `.flex-justify-around`  | `justify-content: space-around`  |
-
-_Note: any of the `flex-` classes must be used on a parent element that has `d-flex` applied to it._
-
-## Vertical Alignment
-
-| Classname              | What it does                    |
-|:-----------------------|:--------------------------------|
-| `.v-align-baseline`    | `vertical-align: baseline`      |
-| `.v-align-bottom`      | `vertical-align: bottom`        |
-| `.v-align-middle`      | `vertical-align: middle`        |
-| `.v-align-text-bottom` | `vertical-align: text-bottom`   |
-| `.v-align-text-top`    | `vertical-align: text-top`      |
-| `.v-align-top`         | `vertical-align: top`           |
-
-## Display
-
-Display classes aid in adapting the layout of the elements on a page:
-
-| Class             |                         |
-|:------------------|:------------------------|
-| `.d-block`        | `display: block`        |
-| `.d-flex`         | `display: flex`         |
-| `.d-inline`       | `display: inline`       |
-| `.d-inline-block` | `display: inline-block` |
-| `.d-none`         | `display: none`         |
-
-Use these classes in conjunction with the responsive modifiers.
-
-#### Examples
-{: .no_toc }
-
-In Markdown, use the `{: }` wrapper to apply custom classes:
-
-```markdown
-This button will be hidden until medium screen sizes:
-
-[ A button ](#url)
-{: .d-none .d-md-inline-block }
-
-These headings will be `inline-block`:
-
-### heading 3
-{: .d-inline-block }
-
-### heading 3
-{: .d-inline-block }
-```
+Mepria typically supports international organizations such as the GHO and sees membership in such organizations as a platform mechanism to gain prestige and influence on the global stage. That said, it is resistant to any external efforts to exert influence within its borders and prizes its own sovereignty. In return it does not “meddle” in other countries’ affairs, though it has increasingly provided aid to lower- income trade partners. This influence building is seen by Swacor as a challenge to their rightful dominance of Zecan, but something that Mepria intends to keep doing. 
