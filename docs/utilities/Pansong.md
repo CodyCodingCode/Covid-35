@@ -12,7 +12,7 @@ parent: Countries and Organizations
 
 ### Income Classification: Middle Income Country
 
-### Government Type: Liberal Decomcracy
+### Government Type: Liberal Democracy
 
 ![Pansong Flag](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Pansong_flag.png?raw=true)
 
