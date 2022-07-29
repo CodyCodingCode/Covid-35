@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Utilities
+title: Countries and Organizations
 nav_order: 4
 has_children: true
 permalink: docs/utilities
@@ -9,5 +9,5 @@ permalink: docs/utilities
 # Utilities
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+Explore the list of countries and organizations in Covid-35. Click on each one to learn more!
 {: .fs-6 .fw-300 }
