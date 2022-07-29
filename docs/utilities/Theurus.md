@@ -6,13 +6,13 @@ parent: Countries and Organizations
 
 # Theurus
 
-###Population: 35 Million
+### Population: 35 Million
 
-###Base ICU Capacity: 5000
+### Base ICU Capacity: 5000
 
-###Income Classification: High Income Country
+### Income Classification: High Income Country
 
-###Government Type: Liberal, Parliamentary, Democracy
+### Government Type: Liberal, Parliamentary, Democracy
 
 ![Theurus Flag](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Theurus_flag.png?raw=true)
 
