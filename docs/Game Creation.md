@@ -10,7 +10,9 @@ nav_order: 3
 On the lobby page, you are able to create a game. 
 
 The easiest way to start a game would be to pick an identifying unique name for your game and click on:
-!create new game image
+![Create Game](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/create_new_game.png?raw=true)
+
+
 Notice that a password is not required for game creation.
 
 ### Custom Settings
@@ -59,23 +61,31 @@ Hospitalisation Rate:
 The rate at which people who have Covid-35 end up being hospitalised.
 
 ICU Rate:
-The rate at which people who have Covid-35 end up being in the ICU.
+The rate at which people who have Covid-35 end up in the ICU.
 
 ICU Capacity:
-The rate at 
+The maximum ICU capacity
 
 Vaccine Efficacy on Sigma:
+The effectiveness of the vaccine, used to calculate 
 
 Land Travel Supression:
+By how much is land-based travel being suppressed.
 
 Air Travel Supression:
+By how much is air-based travel being suppressed.
 
 Land Border Porosity:
+The proportion of infected travellers detected by border screening through land-based travel.
 
 Air Border Porosity:
+The proportion of infected travellers detected by border screening through air-based travel.
 
 Contact Tracing Effectiveness:
+The effectiveness of contact tracing and by how much it reduces transmission.
 
 Vax Reduction of Hospitalisation:
+The effectiveness of reduing hospitalisations once the vaccine has been introduced
 
 ICE Excess Mortality Rate:
+Once the ICU is full, by much how much does mortality rate increase.
