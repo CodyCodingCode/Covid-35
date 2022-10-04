@@ -10,6 +10,8 @@ nav_order: 3
 On the lobby page, you are able to create a game. Please note that only users with admin access should create a game.
 
 The easiest way to start a game would be to pick an identifying unique name for your game and click on:
+
+
 ![Create Game](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/create_new_game.png?raw=true)
 
 
