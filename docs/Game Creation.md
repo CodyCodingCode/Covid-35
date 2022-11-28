@@ -25,6 +25,7 @@ change the outcome of the game. If you don't feel comfortable with changing cert
 ## Game Settings
 ### Asymptomatic Transmission Rate:
 The transmission rate of Covid-35 amongst those who have Covid-35 but are asymptomatic.
+<br>
 Default: 0.4
 
 ### Symptomatic Transmission Rate:
