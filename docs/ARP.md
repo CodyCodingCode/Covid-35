@@ -8,9 +8,13 @@ parent: Game Flow
 ### Expenditure
 Administrative Resource Points (ARPs) represent a government’s capability and capacity to act, and it is a proxy for political capital, administrative capacity, 
 and level of economic development. ARPs are used for the following purposes:
+
 •	Enact or maintain various policy measures.
+
 •	Transfer ARP to either the GHO or other country-teams. 
+
 •	The GHO can use ARPs to speed up vaccine development, enact health programs, or transfer them to countries in need.
+
 ARPs limit the courses of actions which can be undertaken in a given turn, and are thus meant to promote complex decision-making since each team must consider how 
 to use their limited ARPs: for example, should they enact tough policies to suppress transmission of the coronavirus -and if so, which ones- or should they transfer 
 them to another country or the GHO who are in need of support?
