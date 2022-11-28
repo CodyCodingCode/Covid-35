@@ -2,6 +2,8 @@
 layout: default
 title: Game Flow
 nav_order: 6
+has_children: true
+permalink: docs
 ---
 
 # Game Flow
