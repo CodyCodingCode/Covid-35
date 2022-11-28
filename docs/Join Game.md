@@ -11,6 +11,6 @@ Once a game has been created, enter in the game ID and password to join the new 
 
 ![Join Game](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Join_game.jpg?raw=true)
 
-Before clicking on Join Game, please pick a team to join first. Each team will play as one of seven global actors. To read more either click on "Team Info" in-game
-or read the documentation following the link below: 
+Before clicking on Join Game, please pick a team to join first. Each team will play as one of seven global actors. To read more about each country, 
+either click on "Team Info" in-game or read the documentation following the link below: 
 ### [Country Info](https://codycodingcode.github.io/Covid-35/docs/utilities)
