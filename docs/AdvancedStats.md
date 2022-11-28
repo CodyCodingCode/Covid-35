@@ -1,7 +1,7 @@
 ---
 layout: default
-title: AdvancedStats
-parent: Game Flow
+title: Advanced Stats
+parent: Decision Panel
 ---
 
 # Advanced Stats and Graphs
