@@ -4,6 +4,8 @@ title: Vaccines
 parent: Game Play
 ---
 
+# Vaccines
+
 The game has the facility to represent the delivery of vaccines. Vaccines have the effect of reducing transmission and reducing the proportion of 
 infected people who require hospitalisation. Each national vaccine programme will take a number of months to roll out and has a maximum uptake level. 
 By default the vaccines become available after 1 year from the beginning of the pandemic. In high-income countries the rollout will 
