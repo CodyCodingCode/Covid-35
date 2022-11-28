@@ -141,7 +141,9 @@ Below are tables that present a summary of each policy measure, the chosen restr
 
 ### Cost of Policies
 The cost of policies’ are shaped by two factors: 
+
 •	The desired change in policy levels;
+
 •	The policy level in the preceding turn. 
 
 The cost of raising a policy level is dependent on the desired change, as while an increase of a given policy level from green to yellow costs one ARP, 
