@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Policy Measures
-parent: Game Flow
+parent: Decision Panel
 ---
 
 ## Policy Control Measures
