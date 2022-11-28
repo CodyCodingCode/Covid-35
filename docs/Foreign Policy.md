@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Foreign Policy
-parent: Game Flow
+parent: Decision Panel
 ---
 
 # Foreign Policy Entry Form
