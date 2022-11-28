@@ -16,8 +16,8 @@ Once players have successfully joined a game, they will be met with a control pa
 
 There are several key sections to the control panel:
 
-### [Chat](https://codycodingcode.github.io/Covid-35/docs/Login/#login)
+### [Chat](https://codycodingcode.github.io/Covid-35/docs/Chat/)
 ### [Policy Control Measures](https://codycodingcode.github.io/Covid-35/docs/Policy%20Measures/)
 ### [ARP Expenditure](https://codycodingcode.github.io/Covid-35/docs/ARP/)
-### [Foreign Policy Entry Form](https://codycodingcode.github.io/Covid-35/docs/Login/#login)
-### [Advanced Stats](https://codycodingcode.github.io/Covid-35/docs/Login/#login)
+### [Foreign Policy Entry Form](https://codycodingcode.github.io/Covid-35/docs/Foreign%20Policy/)
+### [Advanced Stats](https://codycodingcode.github.io/Covid-35/docs/AdvancedStats/)
