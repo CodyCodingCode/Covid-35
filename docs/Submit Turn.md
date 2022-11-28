@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submit Turn
-parent: Game Flow
+parent: Decision Panel
 ---
 
 # Submitting Your Turn
