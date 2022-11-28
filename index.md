@@ -9,7 +9,8 @@ permalink: /
 Welcome to Covid-35
 {: .fs-9 }
 
-COVID-35 is a classroom pandemic response simulation game in which participants take on the role of national leaders of countries faced with a pandemic. The aim of the game is to reinforce for participants the idea that leaders face a very complex policy-making environment in which social, economic, public health and political considerations are interconnected. {: .fs-6 .fw-300 }
+COVID-35 is a classroom pandemic response simulation game in which participants take on the role of national leaders of countries faced with a pandemic. The aim of the game is to reinforce for participants the idea that leaders face a very complex policy-making environment in which social, economic, public health and political considerations are interconnected. 
+{: .fs-6 .fw-300 }
 
 The game divides players into teams and in each turn of play, participants must respond to the developing situation with a selection of policy options. Players will interact with the game through a web application and at the end of every turn, they will be able to see the impact of their decisions through interactive graphs and tables.
 {: .fs-6 .fw-300 }
