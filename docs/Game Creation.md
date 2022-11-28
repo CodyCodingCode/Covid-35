@@ -152,3 +152,5 @@ The initial base popularity of the given country.
 
 ### Average Base ARP Per Turn
 The ARP per turn is randomly generated every turn. Changing the average will change the range of ARP that can be generated. For example an average ARP per turn of 4 will generate ARP's between 3 and 5.
+
+### [Join an Existing Game](https://codycodingcode.github.io/Covid-35/docs/Join%20Game/)
