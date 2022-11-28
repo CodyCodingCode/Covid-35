@@ -7,12 +7,12 @@ parent: Game Flow
 
 Players will have the chance to chat with other players and administrators for gameplay purposes.
 
-![Chat Box](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Chat Box.jpg?raw=true)
+![Chat Box](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Chat_Box.jpg?raw=true)
 
 To Interact with the chat, simply type a message into the message box and click on Submit.
 
 ### Chat Options
-![Chat Options](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Chat Options.jpg?raw=true)
+![Chat Options](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Chat_Options.jpg?raw=true)
 
 There are several chatting options available to all players.
 
