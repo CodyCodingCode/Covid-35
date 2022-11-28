@@ -15,3 +15,6 @@ largely dependent on ARP transfers from wealthier countries. In addition, solici
 
 Keep in mind that unused ARP's due not persist to the next turn and that potentially the best course of action could be to help either neighboring countries or the
 GHO instead of spending all ARP's locally.
+
+Any ARP's donated will count towards your ARP expenditure for the current turn and the current turn only. ARP's available for further turns will not be impacted
+unless you choose to donate ARP on said turn.
