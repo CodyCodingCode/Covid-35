@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ARP
-parent: Game Flow
+parent: Decision Panel
 ---
 # Administrative Resource Points
 
