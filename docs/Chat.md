@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chat
-parent: Game Flow
+parent: Decision Panel
 ---
 # Chat Options
 
