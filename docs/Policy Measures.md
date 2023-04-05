@@ -148,8 +148,7 @@ The cost of policies’ are shaped by two factors:
 
 The cost of raising a policy level is dependent on the desired change, as while an increase of a given policy level from green to yellow costs one ARP, 
 an increase from green to orange costs three ARPs, and an increase from green to red costs six ARPs. 
-The cost of changing policy levels are also determined by the previous turn’s policy level: maintaining the same policy level is free; 
-the cost of reducing a policy level is one ARP per level of reduction; while the cost to raise a policy level from the previous turn’s level will vary, 
+The cost of changing policy levels are also determined by the previous turn’s policy level: maintaining the same policy level is free for Green and Yellow level policies. Note, however, that the cost of maintaining an Orange or Red level policy will incur a cost of 1 ARP per turn from the high-income countries (Theurus, Swacor, Pansong). The cost of reducing a policy level is one ARP per level of reduction; while the cost to raise a policy level from the previous turn’s level will vary, 
 with an increase from Green to yellow being one ARP, while an increase from orange to red is three ARPs. These factors are meant to guide players to gradually 
 increase their policy levels, rather than using the most effective policy to squash the pandemic in the first turn. After all, the point of the game is not to win 
 against the pandemic per se, but to experience a complex decision-making environment. 
