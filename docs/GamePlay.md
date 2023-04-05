@@ -8,7 +8,7 @@ permalink: docs
 
 # Game Play
 
-The game is broken down into turns. Each turn represents 3 months and has 3 phases.
+The game is broken down into turns. Each turn represents 2 months and has 3 phases.
 
 ### Domestic Discussion and Global Coordination Phase
 Players will communicate within their own country-team as well as with other teams
