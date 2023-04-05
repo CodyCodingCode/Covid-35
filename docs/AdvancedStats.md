@@ -4,9 +4,9 @@ title: Advanced Stats
 parent: Decision Panel
 ---
 
-# Advanced Stats and Graphs
+# Graphs
 
-To view the progress of your country as well as other countries throughout the progression of the game, click on advanced stats in-game
+At the end of every turn, you will be brought to a page containing a series of graphs. This is an opportunity for you to view the progress of your country as well as other countries throughout the progression of the game.
 
 ![Advanced Stats](https://github.com/CodyCodingCode/Covid-35/blob/gh-pages/assets/images/Advanced_Stats.jpg?raw=true)
 
